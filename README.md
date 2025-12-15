@@ -19,6 +19,5 @@ HTML5, CSS3, JavaScript, React
 ## Contribution
 100% — UI/UX Design, Frontend Development, QA
 
-## Links
-- [View Live Project](https://your-deployed-link.com)
-- [View Portfolio](https://hyeminc0706.github.io/Portfolio_1214_original/)
+## Initial Work
+https://altools.co.kr/
