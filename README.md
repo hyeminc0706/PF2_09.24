@@ -1,21 +1,24 @@
-# Project Title
-  Altools(알툴즈)
+# ALTools (Practice Project)
 
 ## Overview
-  Designing and publishing the website of the software company
+A practice project focused on component-based development using React. Designed and built with UI/UX principles and responsive layout.
 
 ## Role
-  Full design and front-end publishing
+UI/UX Designer & Frontend Developer
 
-## Work process
-  Concept setting and idea sketching
-  Wireframe and Prototype Fabrication
-  Component-based development with React
-  Add styling and animation with CSS3
-  Apply responsive design
+## Tech Stack
+HTML5, CSS3, JavaScript, React
 
-## Built With
-  HTML5, CSS3, JavaScript, React
+## Process
+- Concept planning and idea sketching
+- Wireframe and prototype creation
+- Component-based development using React
+- Styling and animations with CSS3
+- Responsive design implementation
 
-## Initial Work
-  https://altools.co.kr/
+## Contribution
+100% — UI/UX Design, Frontend Development, QA
+
+## Links
+- [View Live Project](https://your-deployed-link.com)
+- [View Portfolio](https://hyeminc0706.github.io/Portfolio_1214_original/)
