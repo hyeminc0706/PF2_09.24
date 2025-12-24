@@ -50,7 +50,8 @@ header div.wrap2 span {
   justify-content: center;
   align-items: center;
 }
-header div.wrap2 span a {
+/* 에이플포인트앱출시 버튼 전용 */
+header div.wrap2 span .aplus-btn {
   padding: 10px 20px;
   width: 148px;
   height: 32px;
@@ -59,7 +60,9 @@ header div.wrap2 span a {
   background-position: center;
   color: transparent;
 }
-header div.wrap2 span button {
+
+/* 로그인 버튼 */
+header div.wrap2 span .login-btn {
   height: 36px;
   font-size: 13px;
   padding: 0 16px;
@@ -69,7 +72,9 @@ header div.wrap2 span button {
   color: white;
   background-color: black;
   border-radius: 10px;
+  text-decoration: none;
 }
+
 /* 타이틀영역 */
 #title {
   max-width: 2560px; 
@@ -203,6 +208,10 @@ section#product div.wrap ul {
 }
 section#product div.wrap ul li {
   width: calc(100% / 8);
+  transition: transform .2s ease;
+}
+section#product div.wrap ul li:hover {
+   transform: translateY(-10px); 
 }
 section#product div.wrap ul li a {
   background-color: white;
@@ -274,7 +283,7 @@ section#service div a {
   background-color: black;
   color: #fff;
 }
-section#service div a::hover {
+section#service div a:hover {
   background-color: #666;  
 }
 section#service div a::after {
@@ -333,7 +342,7 @@ section#business div a {
   font-weight: 1000;
   color: black;
 }
-section#business div a::hover {
+section#business div a:hover {
   background-color: #666;  
 }
 section#business div a::after {
@@ -874,6 +883,13 @@ footer {
   color: #8b95a1;
   border-radius: 4px;
   padding: 8px 10px;
+  width: fit-content;
+  height: fit-content;
+}
+footer div ul.fnb>li ul li a:hover {
+  background-color: rgba(139,149,161,.1); /* darkgrey 느낌 */
+  padding: 8px 10px; /* 기존 padding + 3px */
+   /* 선택사항: 글자색 반전 */
 }
 footer div ul.fnb2{
   padding-top: 30px;
