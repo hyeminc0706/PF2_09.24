@@ -1,69 +1,74 @@
-ALTools UI/UX Practice Project
-A front-end practice project focused on rebuilding key UI/UX patterns from the ALTools website.
-The goal of this project was to study layout structure, responsive behavior, and component-based thinking by recreating selected sections of a commercial website.
+# Korea Teachers' Credit Union (Clone Project)
 
-🔍 Overview
-This project is a hands-on exercise in translating an existing website into a clean, modular front-end structure.
-While the original ALTools site is not built with React, this project explores how its UI patterns could be reinterpreted using modern front-end practices.
+## 🔍 Overview
+A fully responsive clone of the Korea Teachers' Credit Union website, built to practice real-world UI/UX patterns, component behavior, and frontend architecture.  
+This project demonstrates my ability to reverse‑engineer complex layouts, translate design systems into code, and build accessible, responsive interfaces optimized for modern browsers.
 
-## Screenshots
-### Desktop View
-<img width="1646" height="874" alt="image" src="https://github.com/user-attachments/assets/05f83650-668f-498e-9b81-12fb9f989f2b" />
+---
 
-### Mobile View
-(Screenshots will be added soon)
+## 🖼️ Screenshots
 
-🎨 Role
-UI/UX Designer & Frontend Developer  
-Responsible for planning, designing, and implementing all parts of the project.
+### Desktop View  
+<img width="1450" height="925" alt="Screenshot 2025-12-24 at 2 30 12 AM" src="https://github.com/user-attachments/assets/5baa5e8e-5f69-4387-b992-a3f44ef8053b" />
 
-🛠 Tech Stack
-HTML5
-CSS3 / SCSS
-JavaScript
-React (component-based structure practice)
+### Mobile View  
+*(will be uploaded soon)*
 
-📌 Project Goals
-Analyze an existing commercial website and break it down into reusable UI components
-Practice responsive layout techniques
-Improve understanding of UI/UX patterns and visual hierarchy
-Explore how a static site can be restructured using React principles
+▶︎ **Live Demo:** https://hyeminc0706.github.io/Clone_Project/  
+▶︎ **Original Site:** https://www.ktcu.or.kr/index  
 
-🧩 Process
-1. Research & Planning
-Studied the layout, spacing, and interaction patterns of the ALTools website
-Identified repeatable UI blocks that could be converted into components
-2. Wireframing & Structure
-Sketched the page structure and determined component boundaries
-Planned responsive breakpoints and layout behavior
-3. Development
-Built the layout using HTML/CSS
-Added interactions and animations with JavaScript
-Practiced reorganizing the UI into React-style components
-4. Responsive Design
-Implemented mobile, tablet, and desktop breakpoints
-Adjusted typography, spacing, and image scaling
+---
 
-📂 Contribution
-100% — UI/UX design, front-end development, and QA.
+## 🎯 Role
+**UI/UX Designer & Frontend Developer**  
+Owned the full design-to-development pipeline, including research, wireframing, prototyping, implementation, and QA.
 
-🔗 Reference
-Original website used for study:
-https://altools.co.kr/
+---
 
-🚀 Live Demo (Optional)
-(GitHub Pages 배포 후 추가 가능)  
-https://hyeminc0706.github.io/Practice_Project/
+## 🛠️ Tech Stack
+- **HTML5** — Semantic structure and component hierarchy  
+- **CSS3** — Layout, styling, responsive design, animations  
+- **JavaScript / jQuery** — Interactive UI components and DOM behavior  
+- **Bootstrap** — Grid system and reusable UI patterns  
 
-📝 What I Learned
-How to break down a commercial website into reusable UI components
-Improved understanding of responsive layout and CSS structure
-Practiced translating static UI into a more modern, modular architecture
-Gained experience analyzing and recreating real-world UI/UX patterns
+---
 
-🔧 Future Improvements
-Convert the entire project into a full React application
-Add accessibility improvements (ARIA labels, keyboard navigation)
-Improve component reusability and folder structure
-Add animations using a modern library (e.g., Framer Motion)
-Expand the project to include additional pages or features
+## 🧩 Process
+
+### 1. Research & Planning
+- Analyzed the original website’s information architecture, navigation flow, and UI patterns  
+- Identified key components to replicate (hero banners, tab menus, sliders, card layouts, etc.)
+
+### 2. Wireframing & UI Design
+- Created low‑fidelity wireframes to map layout structure  
+- Designed high‑fidelity mockups focusing on clarity, hierarchy, and consistency  
+
+### 3. Frontend Implementation
+- Built the full layout using semantic HTML and modular CSS  
+- Recreated interactive behaviors using JavaScript/jQuery  
+- Applied Bootstrap for responsive grid alignment and component spacing  
+
+### 4. Responsive Optimization
+- Ensured seamless behavior across desktop, tablet, and mobile  
+- Adjusted typography, spacing, and component scaling for readability  
+
+### 5. QA & Debugging
+- Conducted cross‑browser testing (Chrome, Safari, Firefox)  
+- Fixed layout shifts, event handling issues, and mobile viewport bugs  
+
+---
+
+## 📌 Contribution
+**80% Ownership**  
+- UI/UX Design  
+- Frontend Development  
+- Interaction Design  
+- QA & Debugging  
+
+---
+
+## 🎯 Key Outcomes
+- Successfully replicated a real-world financial website’s structure and interaction patterns  
+- Strengthened ability to translate design systems into clean, maintainable code  
+- Improved responsive design workflow and debugging efficiency  
+- Built a reusable component approach applicable to future projects  
