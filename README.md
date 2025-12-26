@@ -23,11 +23,11 @@ https://hyeminc0706.github.io/Practice_Project/
 - Interactive elements using jQuery
 - Focused on UI/UX practice
 
+##Contribution
+Solo project(100%)
+
 ## Installation
 ```bash
 git clone https://github.com/hyeminc0706/Practice_Project.git
 cd Practice_Project
 open index.html```
-
-##Contribution
-Solo project(100%)
