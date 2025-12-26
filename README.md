@@ -25,10 +25,10 @@ https://hyeminc0706.github.io/Practice_Project/
 - Focused on UI/UX practice
 
 ## Contribution
-Solo project(100%)
+UI/UX design and frontend development (80%)
 
 ## Installation
 ```bash
 git clone https://github.com/hyeminc0706/Practice_Project.git
 cd Practice_Project
-open index.html```
+open index.html
