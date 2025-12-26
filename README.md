@@ -23,7 +23,7 @@ https://hyeminc0706.github.io/Practice_Project/
 - Interactive elements using jQuery
 - Focused on UI/UX practice
 
-##Contribution
+## Contribution
 Solo project(100%)
 
 ## Installation
