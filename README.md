@@ -29,5 +29,5 @@ git clone https://github.com/hyeminc0706/Practice_Project.git
 cd Practice_Project
 open index.html
 
-Contribution
+##Contribution
 Solo project(100%)
