@@ -7,7 +7,7 @@ This project is desktop-only (no responsive design applied).
 
 ## Screenshots
 ### Desktop View
-<img width="1700" height="938" alt="Screenshot 2025-12-26 at 4 30 33 PM" src="https://github.com/user-attachments/assets/537b443f-7acc-49f3-87a1-440609d25d32" />
+<img width="1702" height="942" alt="image" src="https://github.com/user-attachments/assets/9fc484bc-5121-4300-bec9-dacafeb8073f" />
 
 ## Demo
 https://hyeminc0706.github.io/Practice_Project/
