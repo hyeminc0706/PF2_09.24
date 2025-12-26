@@ -3,7 +3,8 @@
 ## Overview
 A single-page practice project inspired by the ALTools website.  
 Built with HTML, CSS, and JavaScript to strengthen frontend skills.  
-This project is desktop-only (no responsive design applied).
+This project focuses on desktop layout only.
+
 
 ## Screenshots
 ### Desktop View
